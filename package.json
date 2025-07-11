@@ -1,0 +1,24 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "Ce repos contient des des composant utilisable dans vos projet\r # Dependances",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Script-alchimist/Components.git"
+  },
+  "author": "Script",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Script-alchimist/Components/issues"
+  },
+  "homepage": "https://github.com/Script-alchimist/Components#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+}
